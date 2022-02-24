@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of queries to the popish brethren of the association</title>
+            <author>T. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52091</idno>
+            <idno type="STC">Wing M82</idno>
+            <idno type="STC">ESTC R18196</idno>
+            <idno type="EEBO-CITATION">13410848</idno>
+            <idno type="OCLC">ocm 13410848</idno>
+            <idno type="VID">99415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99415)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 465:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of queries to the popish brethren of the association</title>
+                  <author>T. M.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in .</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Religion --  17th century.</term>
+               <term>Broadsides --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99415:1" rendition="simple:additions"/>
+            <head>A LETTER of QUERIES To the <hi>Popiſh Brethren</hi> of the ASSOCIATION.</head>
+            <epigraph>
+               <q>
+                  <l>Muten<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us Clypeos <hi>Danaûm<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </hi> inſignia nobis</l>
+                  <l>Aptemus. Dolus an Virtus Quis in Hoſte requirat?</l>
+               </q>
+               <bibl>
+                  <hi>Virgil.</hi>
+               </bibl>
+            </epigraph>
+            <p>YOU cannot imagine [<hi>Honourable Aſſociators,</hi> for ſo I muſt call you, ſince ſome body has been pleaſed to write you, <hi>Knight</hi> and <hi>Burgeſſes, &amp;c.</hi> in the Head of his Paper, tho' to bring in the buſineſs, he might as well have call'd you <hi>Traytors</hi> and <hi>Rebells:</hi>] You cannot imagine how heartily the <hi>Pope</hi> laugh'd at the firſt peruſual of your <hi>Aſſociation,</hi> when it arrived at <hi>Rome,</hi> and how migh<g ref="char:EOLhyphen"/>tily it tickl'd the Cockles of the Old Man's heart, to ſee it drawn ſo exactly to his mind. He was never in ſo merry and blith a humour in all his Life; and it was very remarkable, that the <hi>Antient Gentleman</hi> read every ſillable and <hi>Iota</hi> on't over and over again, without putting on his <hi>Spectacles,</hi> when he has not done the like theſe many good years. So ſtrangely do ſome things delight (and even tickle) ſome People, that the very conceit of 'em can make the Bloud circulate much more faſt and briskly, than it uſed to do; can make a Decrepid Bald Man as fro<g ref="char:EOLhyphen"/>likſom and airy as the beſt Youngſter of them all, and can Illuminate the <hi>Eyes</hi> as well the <hi>Mind</hi> of Old Age. Well, the <hi>Holy Father</hi> was reſolv'd to weep, and weep he did, for joy; and after ſome few <hi>Mawdlin</hi> Tears, it was his good pleaſure to drop two or three words to the <hi>Red-hatted Sparks</hi> about him: <hi>Theſe are the men for my turn; Theſe will moſt Infallibly do the buſineſs: You may Plot again and again; but when all is done, there is no way like to this, to bring down the ſtubborn Necks of that Heretical People under my</hi> Toes.</p>
+            <p>Now, I being inform'd of this t'other day by a Letter I caſually lighted on, that came from one of your Correſpondents at <hi>Rome,</hi> did wonder very much at the News; and could hardly believe it, till I look'd a little more narrowly into the Draught of your <hi>Aſsociation;</hi> and then I began to be pretty well convinc'd, that it was a Damnable and <hi>Jeſuitical</hi> Thing written by ſome Members of the <hi>Society</hi> to<g ref="char:EOLhyphen"/>wards the advancement of <hi>Popery,</hi> let their Declaration in outward view be never ſo ſevere againſt it. However, I have determin'd with my ſelf to ſuſpend my belief to the afore-mention'd ſtory, till ſome of you will take the pains to give me better <hi>Intelligence,</hi> or return me your Reſolutions to the following <hi>Quaeres,</hi> which I here preſent you withal. And,
+<list>
+                  <item>I. Whether the <hi>Pope</hi> gave you a <hi>Diſpenſation</hi> and <hi>Abſolution</hi> from your <hi>Oath</hi> of <hi>Allegiance,</hi> before you were to enter into this <hi>Aſſociation?</hi>
+                  </item>
+                  <item>II. Whether 'tis not a meer Cheat and Blind put upon the world, when you pre<g ref="char:EOLhyphen"/>tend ſo much to Defend the <hi>Proteſtant Religion;</hi> ſeeing one of its chiefeſt Doctrines is, <hi>Obedience to the Civil Magiſtrate;</hi> and the very entrance into this Combination, <hi>without</hi> and <hi>against</hi> Authority, is repugnant and contradictory to That Principle; And they who act againſt it, and eſpouſe the <hi>Contrary,</hi> (which is one of the moſt <hi>diſcrimanating</hi> Doctrines of the Church of <hi>Rome</hi>) may be preſumed eaſily, not to ſtick at the <hi>Leſs,</hi> but to be <hi>Virtually,</hi> and in effect Rank <hi>Papists?</hi>
+                  </item>
+                  <item>III. Whether in that place where you ſay, <hi>Leſt this Iuſt and Pious Work would by any means be obſtructed or hindred, for want of Diſcipline and Conduct,</hi> &amp;c. you do mean, there may be Impediments in the carrying on; and that it muſt be a Work of Time, ſince <hi>Rome</hi> was not built in a day?</item>
+                  <item>IV. Whether by the <hi>Meritorious Works</hi> you aim at, in Delivering His Majeſty from His Councils, and in Disbanding His Guards; you expect as high and mighty thanks from Heaven, as they did from the King's Father, who ſaid in the days of <hi>Yore; We deſerve and expect Approbation,</hi>
+                     <note place="margin">Sc. Proteſt. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Decemb.</hi> 1638.</note> 
+                     <hi>and Thanks from His Majesty in His own due time, for keeping His Evil Councellours and bad Pa<g ref="char:EOLhyphen"/>triots, from putting their hand in His Subjects?</hi>
+                  </item>
+                  <pb facs="tcp:99415:2"/>
+                  <item>V. Whether <hi>Stephen Colledge</hi> did not excellently well (and with Suceeſs) follow that <hi>Popiſh Aphoriſme</hi> of <hi>Machivel, to put on the Maſque of Religion;</hi> when at his <hi>Tryal</hi> he ſaid, <hi>All the</hi> Proteſtants <hi>of</hi> England <hi>were concern'd in it;</hi> leaſt he ſhould come into the ſame cauſe with <hi>Garnet,</hi> who in one of his private Letters ſhew'd his Fear, leaſt he ſhould not be Enrol'd in the <hi>Albe</hi> of the <hi>Martyrs;</hi> for that, there were not objected againſt him any matters of Religion?</item>
+                  <item>VI. Whether this <hi>Aſſociation</hi> has not in it's form a near Conſanguinity with the <hi>Bloudy League</hi> of <hi>France,</hi> and be not patch'd up out of i's <hi>Holy Reliques?</hi>
+                  </item>
+                  <item>VII. Whether you are not like to the Polititians of the <hi>Court</hi> of <hi>Rome, Huomini ſenza pro ſenza Anima,</hi> Men without Fear of God, or Regard of their own Souls, who, while they ſtrive to advance their Religion; have loſt all Religion themſelves.</item>
+                  <item>VIII. Whether <hi>Mercenary Forces</hi> do not ſignify the <hi>Guards</hi> by an <hi>Equivocation,</hi> and the <hi>Excluſion</hi> of the <hi>Duke,</hi> the <hi>Deſtruction</hi> of <hi>Monarchy,</hi> and <hi>Pulling</hi> down a <hi>Power Arbitrary</hi> in Imagination, the ſetting up another <hi>Real one?</hi>
+                  </item>
+                  <item>IX. Whether your moſt Execrable <hi>Complot</hi> in Swearing to <hi>Caſheer</hi> all <hi>Arbitrary Sway,</hi> and to Propugne the <hi>Proteſtant Religion,</hi> and to Deſtroy the <hi>Duke,</hi> may not very patly be Parallel'd by a wicked Paſſage in a Book call'd, <hi>The Defence of the</hi> Engliſh Catholicks, Chap. 5 <q rend="margQuotes">'<hi>The Danger is ſo evident and inevitable, that God hath not ſufficiently provided for our Salvation, and the Preſervation of the Church and H. Laws,</hi> if there were no way to Reſtrain ſuch wicked Princes,</q> &amp;c. And then it follows,— <q rend="margQuotes">'<hi>The Bond and Obligation we have enter'd into, for the Service of</hi> Chriſt <hi>and his</hi> Church, <hi>far exceeds all other duties, which we owe to any Humane Creature,</hi>
+                     </q> &amp;c.</item>
+                  <item>X. Whether by this <hi>
+                        <g ref="char:V">Ʋ</g>nion</hi> intended to <hi>Diſunite Proteſtants,</hi> you do not take the beſt way to bring in <hi>Papiſm?</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Laſtly,</hi> Whether, by Conſequence the <hi>Now-Abhorrers</hi> of the <hi>Aſſociation,</hi> do not likewiſe in that, <hi>Abhor</hi> and <hi>Deteſt</hi> Popery?</p>
+            <p>And now, Gentlemen, If any Member of you will anſwer theſe <hi>Interrogatories,</hi> by way of clearing your ſelves from the Scandal of a Pack of <hi>Popiſhly-Affected</hi> Perſons, I ſhall look upon my ſelf ſo far oblig'd to you, as either to Anſwer your Anſwers, or to propoſe ſome New Doubts to <hi>You,</hi> or to that ſame <hi>Ignatius Loyola,</hi> who may be as good at Expounding, as making of Riddles; and whom ſome Mad People follow with ſuch a <hi>Precipitate</hi> and <hi>Blind Obedience,</hi> as only befits them, whom the <hi>Devil drives.</hi> But better things are now hop'd from you, ſince you could not but ſee very lately the Fact of all <hi>Rebels</hi> in the Reſemblance of the <hi>Old Covenant</hi> and <hi>New Aſſociation,</hi> conſumed by the <hi>Flames.</hi> The deſcent to <hi>Hell</hi> is very eaſy, and <hi>Ignatius,</hi> though he may Limp and Halt never ſo much, may get thither timely enough to come to the <hi>Roaſt-meat.</hi>
+            </p>
+            <p>Some of your own <hi>Popiſh</hi> Authors ſay of him, <hi>Satis conſtat eum in Pueritià, Profanos admodum haufiſſe Spiritus,</hi> certain it is, that in his Childhood he drew in very Prophane Spirits; and that, <hi>in Adoleſcentiâ, Militia ac Vanitati ſeſe dedit,</hi> in his Youthful years, he betook himſelf to Wars and Vanity, being of a <hi>Defultorius</hi>'s Diſpoſition, and ready to ſerve any Party, that could pay beſt. But at <hi>Pomperopolis,</hi> being Strenuouſly ingag'd in Battle; his Leg was ſorely wounded, and it turn'd to a very good Account, for <hi>accepto hoc Luculento vulnere ad Deum converſus eſt,</hi> having received this huge wound, he was Converted to God, letting out of it all his ſin<g ref="char:EOLhyphen"/>ful Bloud: And uſing ever ſince a <hi>Tap-ſtilt</hi> to ſupport his Body, he has walk't ſo Firmly with God, as he is become the Founder and General of a moſt <hi>Sacred</hi> Society; though ſtill ſome think this Walking is only <hi>an Halting between God and</hi> Baal <hi>and running Crooked courſes,</hi> as <hi>Iſrael</hi> did in the days of <hi>Elias.</hi> However let him go <hi>how</hi> or <hi>whither</hi> he will, The <hi>Popes bleſſing</hi> ever-more go along with him.</p>
+            <closer>
+               <signed>T. M.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> A. Banks, <hi>MDCLXXXII.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
